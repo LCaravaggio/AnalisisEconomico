@@ -97,4 +97,9 @@ src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk5_OgxouUFaFk3bUnHuT
 <img border="0" title="An Economist’s Lessons on Happiness: Farewell Dismal Science!" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624466926l/58409210._SY475_.jpg" width="86" height="133.3">
 </a>  
+
+<a href="https://www.goodreads.com/book/show/32567426-the-theory-of-externalities-and-public-goods?ac=1&from_search=true&qid=Y3QAiwJMBA&rank=1">
+<img border="0" title="The Theory of Externalities and Public Goods" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490833589l/32567426.jpg" width="86" height="133.3">
+</a>
 </p>  
