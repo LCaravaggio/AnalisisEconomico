@@ -87,4 +87,9 @@ src="https://www.elibrary.imf.org/coverimage?doc=%2Fjournals%2F001%2F2000%2F035%
 <img border="0" title="The Logic of Colective Action" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348697605l/369409.jpg" width="86" height="133.3">
 </a>
+  
+<a href="https://www.jstor.org/stable/1925895">
+<img border="0" title="The Pure Theory of Public Expenditure" 
+src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk5_OgxouUFaFk3bUnHuT4or6FYbqMmHYMIxM4cqmuZHDI7gy-nERqkqY4fPxEfd9o6AQ&usqp=CAU" width="86" height="133.3">
+</a> 
 </p>  
