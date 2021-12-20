@@ -91,5 +91,10 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/13486
 <a href="https://www.jstor.org/stable/1925895">
 <img border="0" title="The Pure Theory of Public Expenditure" 
 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk5_OgxouUFaFk3bUnHuT4or6FYbqMmHYMIxM4cqmuZHDI7gy-nERqkqY4fPxEfd9o6AQ&usqp=CAU" width="86" height="133.3">
-</a> 
+</a>
+  
+<a href="https://www.goodreads.com/book/show/58409210-an-economist-s-lessons-on-happiness">
+<img border="0" title="An Economist’s Lessons on Happiness: Farewell Dismal Science!" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624466926l/58409210._SY475_.jpg" width="86" height="133.3">
+</a>  
 </p>  
