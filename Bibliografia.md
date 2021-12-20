@@ -37,6 +37,46 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/14768
 <img border="0" title="The Economics of the Government Budget Constraint" 
 src="https://imgv2-1-f.scribdassets.com/img/document/348180337/original/52ff0715ab/1632520030?v=1" width="86" height="133.3">
 </a>  
+  
+<a href="http://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/554/texact.htm">
+<img border="0" title="Ley de Administración Financiera del Estado" 
+src="https://d20ohkaloyme4g.cloudfront.net/img/document_thumbnails/55806cdd10ff2a70a23243a037285d28/thumb_1200_1697.png" width="86" height="133.3">
+</a>   
+  
+<a href="https://capacitacion.mecon.gob.ar/manuales_nuevo/Presupuesto-Clasificador13.pdf">
+<img border="0" title="Manual de Clasificaciones Presupuestarias para el Sector Público Nacional" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423233899l/24851581.jpg" width="86" height="133.3">
+</a>     
+
+<a href="https://www.goodreads.com/book/show/15213755-anarqu-a-estado-y-utop-a?ac=1&from_search=true&qid=j6T6orsVUc&rank=1">
+<img border="0" title="Anarquía, Estado y utopía" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355145564l/15213755.jpg" width="86" height="133.3">
+</a>
+  
+<a href="https://www.goodreads.com/book/show/889914.Teor_a_de_la_justicia?ac=1&from_search=true&qid=uRwDywV1BM&rank=1">
+<img border="0" title="Teoría de la Justicia" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348477690l/889914.jpg" width="86" height="133.3">
+</a>  
+  
+<a href="https://www.goodreads.com/book/show/20520568-la-idea-de-la-justicia?ac=1&from_search=true&qid=ZPsfvBJ6qP&rank=1">
+<img border="0" title="La Idea de la Justicia" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389560157l/20520568.jpg" width="86" height="133.3">
+</a>
+ 
+<a href="https://www.ophi.org.uk/wp-content/uploads/Sen-1979_Equality-of-What.pdf">
+<img border="0" title="Equality of What?" 
+src="https://oxford.universitypressscholarship.com/skin/25ddf951243030916c494aafc0af0a8099d92bfc/images/default.gif" width="86" height="133.3">
+</a>      
+
+<a href="https://www.aeaweb.org/articles?id=10.1257/jep.12.4.133">
+<img border="0" title="State versus Private Ownership" 
+src="https://www.slideserve.com/photo/35611.jpeg" width="86" height="133.3">
+</a>
+
+<a href="https://www.imf.org/external/pubs/ft/wp/2000/wp0035.pdf">
+<img border="0" title="Tax Policy for Developing Countries: Emerging Markets" 
+src="https://www.elibrary.imf.org/coverimage?doc=%2Fjournals%2F001%2F2000%2F035%2F001.2000.issue-035-en.xml&width=200" width="86" height="133.3">
+</a>
 </p> 
 
 
