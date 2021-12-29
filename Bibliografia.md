@@ -102,4 +102,9 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/16244
 <img border="0" title="The Theory of Externalities and Public Goods" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490833589l/32567426.jpg" width="86" height="133.3">
 </a>
+  
+<a href="https://www.goodreads.com/book/show/17286670-scarcity?ac=1&from_search=true&qid=ZNPdwqdVLi&rank=1">
+<img border="0" title="Scarcity: Why Having Too Little Means So Much" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392470177l/17286670.jpg" width="86" height="133.3">
+</a>  
 </p>  
