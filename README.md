@@ -8,3 +8,13 @@
 * Bienestar y Desarrollo Económico
 * Teoría de Juegos aplicada al problema del sector público
 * Instituciones
+
+# Slides
+[Encuentro 1](https://docs.google.com/presentation/d/1K1VE8EYizzufOdLAl5ksq9t0BU3rLlQIUJExHNEM69M/edit?usp=sharing)
+[Encuentro 2]()
+[Encuentro 3]()
+[Encuentro 4](https://docs.google.com/presentation/d/1jwQCqrn-0btxhs5hYX3xHCvdizQaWiSoL2wnL2X_7ZI/edit?usp=sharing)
+[Encuentro 5]()
+[Encuentro 6]()
+[Encuentro 7]()
+[Encuentro 8]()
