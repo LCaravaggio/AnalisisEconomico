@@ -18,3 +18,6 @@
 [Encuentro 6]()  
 [Encuentro 7]()  
 [Encuentro 8]()  
+
+# Tps
+[TP1](https://docs.google.com/document/d/16TNdIcYuCYhzoAvawXzV3FpfvL7eQfvA7JNLTmbuM9Q/edit?usp=sharing)  
