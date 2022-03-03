@@ -1,6 +1,6 @@
 # ¿Por qué reuniones silenciosas? 
 
-[The Silent Meeting Manifesto](https://medium.com/p/189e9e3487eb#a29e)
+[The Silent Meeting Manifesto](https://medium.com/p/189e9e3487eb)
 
 # Posbiles "Tables Reads"
 
