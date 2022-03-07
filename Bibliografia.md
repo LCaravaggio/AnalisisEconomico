@@ -107,4 +107,14 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/14908
 <img border="0" title="Scarcity: Why Having Too Little Means So Much" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392470177l/17286670.jpg" width="86" height="133.3">
 </a>  
+  
+<a href="https://www.goodreads.com/book/show/29983049-la-riqueza-de-las-naciones">
+<img border="0" title="La Riqueza De Las Naciones" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461421285l/29983049._SY475_.jpg" width="86" height="133.3">
+</a>
+  
+<a href="https://www.goodreads.com/book/show/16078656-la-mano-invisible">
+<img border="0" title="La mano invisible" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349876444l/16078656.jpg" width="86" height="133.3">
+</a>    
 </p>  
