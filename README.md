@@ -2,13 +2,7 @@
 
 # Análisis Económico 
 
-## Syllabus
-
-* [Syllabus](https://github.com/LCaravaggio/AnalisisEconomico/blob/main/Syllabus.pdf)
-
-
 ## Slides
-
 * [Bienes Públicos. Externalidades. Análisis Costo-Beneficio](https://docs.google.com/presentation/d/1K1VE8EYizzufOdLAl5ksq9t0BU3rLlQIUJExHNEM69M/edit?usp=sharing)
 * [Teoría del Bienestar. Teoría de Impuestos y el problema del Déficit](https://docs.google.com/presentation/d/1Wc7EIntCPPEFmUgRG-gY8tEsR4QOcFdr76Mb-iGBMjU/edit?usp=sharing)
 * [Financiamiento y Presupuesto del Estado](https://docs.google.com/presentation/d/1MjTJ1VEhcmgqMrk8FLuKZO3RQpW9P_1SlyT7P8e1_wA/edit?usp=sharing)
@@ -22,3 +16,7 @@
 [TP1](https://docs.google.com/document/d/16TNdIcYuCYhzoAvawXzV3FpfvL7eQfvA7JNLTmbuM9Q/edit?usp=sharing)  
 [TP2](https://docs.google.com/document/d/1K3gBqJ49poBDLRHLklRQfW9-G3oU0-afl92DadL4otU/edit?usp=sharing)  
 [Trabajo Final](https://docs.google.com/document/d/1joM39N6gfPlRyUpYhc4Mges8-3NsWe3yIhYfG70JJvI/edit?usp=sharing)
+
+
+## Syllabus
+* [Syllabus](https://github.com/LCaravaggio/AnalisisEconomico/blob/main/Syllabus.pdf)
