@@ -116,5 +116,10 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/14614
 <a href="https://www.goodreads.com/book/show/16078656-la-mano-invisible">
 <img border="0" title="La mano invisible" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349876444l/16078656.jpg" width="86" height="133.3">
-</a>    
+</a>
+  
+<a href="https://www.goodreads.com/book/show/31911.Contemporary_Political_Philosophy">
+<img border="0" title="Contemporary Political Philosophy" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386923743l/31911.jpg" width="86" height="133.3">
+</a>  
 </p>  
