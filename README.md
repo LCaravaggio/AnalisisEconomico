@@ -1,14 +1,11 @@
 <a href="url"><img src="https://www.itba.edu.ar/wp-content/uploads/2020/03/Marca-ITBA-Color-ALTA.png" height="115" width="234" ></a>
 
 # Análisis Económico 
-
-# Slides
-
 <details open>
 <summary>Slides</summary>
 <br>
   
-  - [Turbo](https://turbo.hotwire.dev/)
+  - [Bienes Públicos. Externalidades. Análisis Costo-Beneficio](https://docs.google.com/presentation/d/1K1VE8EYizzufOdLAl5ksq9t0BU3rLlQIUJExHNEM69M/edit?usp=sharing)
   - [Turbo Drive](https://turbo.hotwire.dev/handbook/drive)
   - [Turbo Frames](https://turbo.hotwire.dev/handbook/frames)
   - [Turbo Stream](https://turbo.hotwire.dev/handbook/streams)
@@ -26,7 +23,7 @@
 * [Syllabus](https://github.com/LCaravaggio/AnalisisEconomico/blob/main/Syllabus.pdf)
 
 
-- [Bienes Públicos. Externalidades. Análisis Costo-Beneficio](https://docs.google.com/presentation/d/1K1VE8EYizzufOdLAl5ksq9t0BU3rLlQIUJExHNEM69M/edit?usp=sharing)
+- 
 - [Teoría del Bienestar. Teoría de Impuestos y el problema del Déficit](https://docs.google.com/presentation/d/1Wc7EIntCPPEFmUgRG-gY8tEsR4QOcFdr76Mb-iGBMjU/edit?)
 - [Financiamiento y Presupuesto del Estado](https://docs.google.com/presentation/d/1MjTJ1VEhcmgqMrk8FLuKZO3RQpW9P_1SlyT7P8e1_wA/edit?usp=sharing)
 - [La mano invisible del mercado y la justificación del estado](https://docs.google.com/presentation/d/1jwQCqrn-0btxhs5hYX3xHCvdizQaWiSoL2wnL2X_7ZI/edit?usp=sharing)
