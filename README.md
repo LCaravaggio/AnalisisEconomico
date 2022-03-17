@@ -2,7 +2,7 @@
 
 # Análisis Económico 
 
-# Hotwire Stack
+# Slides
 
 <details open>
 <summary>Slides</summary>
