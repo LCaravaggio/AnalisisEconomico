@@ -2,7 +2,10 @@
 
 # Análisis Económico 
 
-## Slides
+
+<details>
+<summary>## Slides</summary>
+<br>
 * [Bienes Públicos. Externalidades. Análisis Costo-Beneficio](https://docs.google.com/presentation/d/1K1VE8EYizzufOdLAl5ksq9t0BU3rLlQIUJExHNEM69M/edit?usp=sharing)
 * [Teoría del Bienestar. Teoría de Impuestos y el problema del Déficit](https://docs.google.com/presentation/d/1Wc7EIntCPPEFmUgRG-gY8tEsR4QOcFdr76Mb-iGBMjU/edit?usp=sharing)
 * [Financiamiento y Presupuesto del Estado](https://docs.google.com/presentation/d/1MjTJ1VEhcmgqMrk8FLuKZO3RQpW9P_1SlyT7P8e1_wA/edit?usp=sharing)
@@ -11,6 +14,7 @@
 * [Bienestar y Desarrollo Económico](https://docs.google.com/presentation/d/1cyBwjP1jt7778CHyJXh9IJg6HDNcU6seZspM-a82Rlc/edit?usp=sharing)
 * [Teoría de Juegos aplicada al problema del sector público](https://docs.google.com/presentation/d/1Ay0Su3NtaaVzSWhvpgfGlxHV8D-itlmq8Bq_teAe9Bs/edit?usp=sharing)
 * [Instituciones](https://docs.google.com/presentation/d/1b-KlxaWKG_fyqiTFKgXOVJIDHnQIzc1fRw0R4wcngSQ/edit?usp=sharing)
+</details>
 
 ## Tps
 * [TP1](https://docs.google.com/document/d/16TNdIcYuCYhzoAvawXzV3FpfvL7eQfvA7JNLTmbuM9Q/edit?usp=sharing)  
