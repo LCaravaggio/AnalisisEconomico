@@ -1,7 +1,7 @@
 <a href="url"><img src="https://www.itba.edu.ar/wp-content/uploads/2020/03/Marca-ITBA-Color-ALTA.png" height="115" width="234" ></a>
 
 # Análisis Económico 
-<details open>
+<details>
 <summary>Slides</summary>
 <br>
   
@@ -13,14 +13,18 @@
   - [Bienestar y Desarrollo Económico](https://docs.google.com/presentation/d/1cyBwjP1jt7778CHyJXh9IJg6HDNcU6seZspM-a82Rlc/edit?usp=sharing)
   - [Teoría de Juegos aplicada al problema del sector público](https://docs.google.com/presentation/d/1Ay0Su3NtaaVzSWhvpgfGlxHV8D-itlmq8Bq_teAe9Bs/edit?usp=sharing)
   - [Instituciones](https://docs.google.com/presentation/d/1b-KlxaWKG_fyqiTFKgXOVJIDHnQIzc1fRw0R4wcngSQ/edit?usp=sharing)
-
 </details>
 
-## Tps
-* [TP1](https://docs.google.com/document/d/16TNdIcYuCYhzoAvawXzV3FpfvL7eQfvA7JNLTmbuM9Q/edit?usp=sharing)  
-* [TP2](https://docs.google.com/document/d/1K3gBqJ49poBDLRHLklRQfW9-G3oU0-afl92DadL4otU/edit?usp=sharing)  
-* [Trabajo Final](https://docs.google.com/document/d/1joM39N6gfPlRyUpYhc4Mges8-3NsWe3yIhYfG70JJvI/edit?usp=sharing)
+<details>
+<summary>TPs</summary>
+<br>
+  - [TP1](https://docs.google.com/document/d/16TNdIcYuCYhzoAvawXzV3FpfvL7eQfvA7JNLTmbuM9Q/edit?usp=sharing)  
+  - [TP2](https://docs.google.com/document/d/1K3gBqJ49poBDLRHLklRQfW9-G3oU0-afl92DadL4otU/edit?usp=sharing)  
+  - [Trabajo Final](https://docs.google.com/document/d/1joM39N6gfPlRyUpYhc4Mges8-3NsWe3yIhYfG70JJvI/edit?usp=sharing)
+</details>
 
-
-## Syllabus
-* [Syllabus](https://github.com/LCaravaggio/AnalisisEconomico/blob/main/Syllabus.pdf)
+<details>
+<summary>Syllabus</summary>
+<br>
+  - [Syllabus](https://github.com/LCaravaggio/AnalisisEconomico/blob/main/Syllabus.pdf)
+</details>
