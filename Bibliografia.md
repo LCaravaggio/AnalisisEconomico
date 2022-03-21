@@ -127,4 +127,9 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/13869
 <img border="0" title="Cost-Benefit Analysis" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348580089l/253918.jpg" width="86" height="133.3">
 </a>  
+  
+<a href="https://www.goodreads.com/book/show/39644138-the-cost-benefit-revolution?ac=1&from_search=true&qid=l4ONpch7NI&rank=1">
+<img border="0" title="The Cost-Benefit Revolution" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534281478l/39644138.jpg" width="86" height="133.3">
+</a>    
 </p>  
