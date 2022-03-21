@@ -132,4 +132,9 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/13485
 <img border="0" title="The Cost-Benefit Revolution" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534281478l/39644138.jpg" width="86" height="133.3">
 </a>    
+  
+<a href="https://www.goodreads.com/book/show/25849315-por-qu-algunas-cosas-no-deber-an-estar-en-venta">
+<img border="0" title="Por qué algunas cosas no deberían estar en venta: Los límites morales del mercado" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436033756l/25849315._SX318_.jpg" width="86" height="133.3">
+</a>     
 </p>  
