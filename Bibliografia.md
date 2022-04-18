@@ -136,5 +136,10 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/15342
 <a href="https://www.goodreads.com/book/show/25849315-por-qu-algunas-cosas-no-deber-an-estar-en-venta">
 <img border="0" title="Por qué algunas cosas no deberían estar en venta: Los límites morales del mercado" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436033756l/25849315._SX318_.jpg" width="86" height="133.3">
-</a>     
+</a>
+  
+<a href="https://www.goodreads.com/book/show/4168029-el-analisis-economico-y-la-filosofia-moral?ac=1&from_search=true&qid=I9eQNadcEv&rank=1">
+<img border="0" title="El analisis economico y la Filosofia Moral" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355146650l/4168029.jpg" width="86" height="133.3">
+</a>  
 </p>  
