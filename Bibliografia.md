@@ -138,8 +138,13 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/15342
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436033756l/25849315._SX318_.jpg" width="86" height="133.3">
 </a>
   
-<a href="https://www.goodreads.com/book/show/4168029-el-analisis-economico-y-la-filosofia-moral?ac=1&from_search=true&qid=I9eQNadcEv&rank=1">
+<a href="https://www.goodreads.com/book/show/4168029-el-analisis-economico-y-la-filosofia-moral">
 <img border="0" title="El analisis economico y la Filosofia Moral" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355146650l/4168029.jpg" width="86" height="133.3">
-</a>  
+</a>
+  
+<a href="https://www.goodreads.com/book/show/13831540-preference-value-choice-and-welfare">
+<img border="0" title="Preference, Value, Choice, and Welfare" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344737593l/13831540.jpg" width="86" height="133.3">
+</a>    
 </p>  
