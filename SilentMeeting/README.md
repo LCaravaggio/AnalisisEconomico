@@ -1,8 +1,8 @@
 # ¿Por qué reuniones silenciosas? 
 
-[The Silent Meeting Manifesto](https://medium.com/p/189e9e3487eb)
-[HBR - Dear Manager, You’re Holding Too Many Meetings](https://hbr.org/2022/03/dear-manager-youre-holding-too-many-meetings)
-[HBR - Stop the Meeting Madness](https://hbr.org/2017/07/stop-the-meeting-madness))
+[The Silent Meeting Manifesto](https://medium.com/p/189e9e3487eb)<br />
+[HBR - Dear Manager, You’re Holding Too Many Meetings](https://hbr.org/2022/03/dear-manager-youre-holding-too-many-meetings)<br />
+[HBR - Stop the Meeting Madness](https://hbr.org/2017/07/stop-the-meeting-madness))<br />
 
 # Posibles "Tables Reads"
 
@@ -14,3 +14,4 @@
 ["Por qué algunas cosas no deberían estar en venta"](https://docs.google.com/document/d/1N0taMycnyiQLqrYd0FHJudR3fC1zvBy2y17vFPtE7BA/edit?usp=sharing), Debra Satz <br />
 ["El sistema de pensiones en la Argentina"](https://docs.google.com/document/d/1RrRl76mv-QvtbCwwcE-EoHq2xQ-TiFWPoO8Gzc_e2IY/edit?usp=sharing), Oscar Cetrángolo y Carlos Grushka  <br />
 ["¿Educación pública o privada?"](https://docs.google.com/document/d/1bSro-3tXSDmkNetHgMQQvSousLxl3CMYxI8F_5kkGWg/edit?usp=sharing), Alejandro Morduchowicz  <br />
+["Por una ética del consumo"](https://docs.google.com/document/d/1I8jideP-lST8pIUJDP8lxStwP7EngOXv91QLOuNNB-Q/edit?usp=sharing), Adela Cortina
