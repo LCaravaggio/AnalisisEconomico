@@ -115,6 +115,7 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/13551
 </a>  
 
 Elección
+
 <a href="https://www.goodreads.com/book/show/13831540-preference-value-choice-and-welfare">
 <img border="0" title="Preference, Value, Choice, and Welfare" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344737593l/13831540.jpg" width="86" height="133.3">
