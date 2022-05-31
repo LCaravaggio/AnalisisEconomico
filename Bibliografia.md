@@ -96,7 +96,7 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/13485
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534281478l/39644138.jpg" width="86" height="133.3">
 </a>    
 
-Moral
+Moral / Filosofía
   
 <a href="https://www.goodreads.com/book/show/31911.Contemporary_Political_Philosophy">
 <img border="0" title="Contemporary Political Philosophy" 
@@ -108,6 +108,27 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/13869
 <img border="0" title="Por qué algunas cosas no deberían estar en venta: Los límites morales del mercado" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436033756l/25849315._SX318_.jpg" width="86" height="133.3">
 </a>
+
+<a href="https://www.goodreads.com/book/show/4168029-el-analisis-economico-y-la-filosofia-moral">
+<img border="0" title="El analisis economico y la Filosofia Moral" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355146650l/4168029.jpg" width="86" height="133.3">
+</a>  
+
+Elección
+<a href="https://www.goodreads.com/book/show/13831540-preference-value-choice-and-welfare">
+<img border="0" title="Preference, Value, Choice, and Welfare" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344737593l/13831540.jpg" width="86" height="133.3">
+</a>
+  
+<a href="https://www.goodreads.com/book/show/3450744-nudge">
+<img border="0" title="Nudge" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348322381l/3450744.jpg" width="86" height="133.3">
+</a>
+  
+<a href="https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow">
+<img border="0" title="Thinking, Fast and Slow" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317793965l/11468377.jpg" width="86" height="133.3">
+</a>    
   
 Felicidad
   
@@ -155,16 +176,6 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/14614
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349876444l/16078656.jpg" width="86" height="133.3">
 </a>  
 
-<a href="https://www.goodreads.com/book/show/4168029-el-analisis-economico-y-la-filosofia-moral">
-<img border="0" title="El analisis economico y la Filosofia Moral" 
-src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355146650l/4168029.jpg" width="86" height="133.3">
-</a>
-  
-<a href="https://www.goodreads.com/book/show/13831540-preference-value-choice-and-welfare">
-<img border="0" title="Preference, Value, Choice, and Welfare" 
-src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344737593l/13831540.jpg" width="86" height="133.3">
-</a>
-  
 <a href="https://www.goodreads.com/book/show/6442389-well-being-for-public-policy">
 <img border="0" title="Well-Being for Public Policy" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348106134l/6442389.jpg" width="86" height="133.3">
