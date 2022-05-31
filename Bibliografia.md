@@ -83,6 +83,35 @@ src="https://www.elibrary.imf.org/coverimage?doc=%2Fjournals%2F001%2F2000%2F035%
 
 ## Más bibliografía
 <p>
+
+Costo Beneficio
+  
+<a href="https://www.goodreads.com/book/show/253918.Cost_Benefit_Analysis">
+<img border="0" title="Cost-Benefit Analysis" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348580089l/253918.jpg" width="86" height="133.3">
+</a>  
+  
+<a href="https://www.goodreads.com/book/show/39644138-the-cost-benefit-revolution?ac=1&from_search=true&qid=l4ONpch7NI&rank=1">
+<img border="0" title="The Cost-Benefit Revolution" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534281478l/39644138.jpg" width="86" height="133.3">
+</a>    
+
+Felicidad
+  
+<a href="https://www.goodreads.com/book/show/58409210-an-economist-s-lessons-on-happiness">
+<img border="0" title="An Economist’s Lessons on Happiness: Farewell Dismal Science!" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624466926l/58409210._SY475_.jpg" width="86" height="133.3">
+</a>  
+  
+Teoría de Juegos
+  
+<a href="https://www.goodreads.com/book/show/483055.Theory_of_Games_and_Economic_Behavior?ac=1&from_search=true&qid=SQcSHmRfWd&rank=5">
+<img border="0" title="Theory of Games and Economic Behavior" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347376573l/483055.jpg" width="86" height="133.3">
+</a>  
+  
+Otros
+  
 <a href="https://www.goodreads.com/book/show/369409.The_Logic_of_Collective_Action?ac=1&from_search=true&qid=Ik1HJKA0OG&rank=1">
 <img border="0" title="The Logic of Colective Action" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348697605l/369409.jpg" width="86" height="133.3">
@@ -93,11 +122,6 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/13486
 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk5_OgxouUFaFk3bUnHuT4or6FYbqMmHYMIxM4cqmuZHDI7gy-nERqkqY4fPxEfd9o6AQ&usqp=CAU" width="86" height="133.3">
 </a>
   
-<a href="https://www.goodreads.com/book/show/58409210-an-economist-s-lessons-on-happiness">
-<img border="0" title="An Economist’s Lessons on Happiness: Farewell Dismal Science!" 
-src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624466926l/58409210._SY475_.jpg" width="86" height="133.3">
-</a>  
-
 <a href="https://www.goodreads.com/book/show/32567426-the-theory-of-externalities-and-public-goods?ac=1&from_search=true&qid=Y3QAiwJMBA&rank=1">
 <img border="0" title="The Theory of Externalities and Public Goods" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490833589l/32567426.jpg" width="86" height="133.3">
@@ -123,16 +147,7 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/13498
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386923743l/31911.jpg" width="86" height="133.3">
 </a>
   
-<a href="https://www.goodreads.com/book/show/253918.Cost_Benefit_Analysis">
-<img border="0" title="Cost-Benefit Analysis" 
-src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348580089l/253918.jpg" width="86" height="133.3">
-</a>  
-  
-<a href="https://www.goodreads.com/book/show/39644138-the-cost-benefit-revolution?ac=1&from_search=true&qid=l4ONpch7NI&rank=1">
-<img border="0" title="The Cost-Benefit Revolution" 
-src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534281478l/39644138.jpg" width="86" height="133.3">
-</a>    
-  
+ 
 <a href="https://www.goodreads.com/book/show/25849315-por-qu-algunas-cosas-no-deber-an-estar-en-venta">
 <img border="0" title="Por qué algunas cosas no deberían estar en venta: Los límites morales del mercado" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436033756l/25849315._SX318_.jpg" width="86" height="133.3">
@@ -151,10 +166,5 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/13447
 <a href="https://www.goodreads.com/book/show/6442389-well-being-for-public-policy">
 <img border="0" title="Well-Being for Public Policy" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348106134l/6442389.jpg" width="86" height="133.3">
-</a> 
-  
-<a href="https://www.goodreads.com/book/show/483055.Theory_of_Games_and_Economic_Behavior?ac=1&from_search=true&qid=SQcSHmRfWd&rank=5">
-<img border="0" title="Theory of Games and Economic Behavior" 
-src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347376573l/483055.jpg" width="86" height="133.3">
-</a>   
+</a>  
 </p>  
