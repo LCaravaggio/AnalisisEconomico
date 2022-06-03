@@ -84,6 +84,13 @@ src="https://www.elibrary.imf.org/coverimage?doc=%2Fjournals%2F001%2F2000%2F035%
 ## Más bibliografía
 <p>
 
+Estado
+  
+<a href="https://www.jstor.org/stable/1925895">
+<img border="0" title="The Pure Theory of Public Expenditure" 
+src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk5_OgxouUFaFk3bUnHuT4or6FYbqMmHYMIxM4cqmuZHDI7gy-nERqkqY4fPxEfd9o6AQ&usqp=CAU" width="86" height="133.3">
+</a>  
+  
 Costo Beneficio
   
 <a href="https://www.goodreads.com/book/show/253918.Cost_Benefit_Analysis">
@@ -114,7 +121,7 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/14360
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355146650l/4168029.jpg" width="86" height="133.3">
 </a>  
 
-Elección
+Elección / Comportamiento
 
 <a href="https://www.goodreads.com/book/show/13831540-preference-value-choice-and-welfare">
 <img border="0" title="Preference, Value, Choice, and Welfare" 
@@ -130,6 +137,28 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/13483
 <img border="0" title="Thinking, Fast and Slow" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317793965l/11468377.jpg" width="86" height="133.3">
 </a>    
+
+<a href="https://www.goodreads.com/book/show/31014464-the-handbook-of-experimental-economics-volume-2">
+<img border="0" title="The Handbook of Experimental Economics, Volume 2" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471282315l/31014464.jpg" width="86" height="133.3">
+</a>
+ 
+<a href="https://www.goodreads.com/book/show/17286670-scarcity?ac=1&from_search=true&qid=ZNPdwqdVLi&rank=1">
+<img border="0" title="Scarcity: Why Having Too Little Means So Much" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392470177l/17286670.jpg" width="86" height="133.3">
+</a>  
+  
+Bienestar
+
+<a href="https://www.goodreads.com/book/show/7425861-mismeasuring-our-lives">
+<img border="0" title="Mismeasuring Our Lives: Why GDP Doesn't Add Up" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328751713l/7425861.jpg" width="86" height="133.3">
+</a>    
+
+<a href="https://www.goodreads.com/book/show/6442389-well-being-for-public-policy">
+<img border="0" title="Well-Being for Public Policy" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348106134l/6442389.jpg" width="86" height="133.3">
+</a> 
   
 Felicidad
   
@@ -145,28 +174,18 @@ Teoría de Juegos
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347376573l/483055.jpg" width="86" height="133.3">
 </a>  
   
-Otros
+Cooperación / Instituciones / Bienes comunes
   
 <a href="https://www.goodreads.com/book/show/369409.The_Logic_of_Collective_Action?ac=1&from_search=true&qid=Ik1HJKA0OG&rank=1">
 <img border="0" title="The Logic of Colective Action" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348697605l/369409.jpg" width="86" height="133.3">
-</a>
-  
-<a href="https://www.jstor.org/stable/1925895">
-<img border="0" title="The Pure Theory of Public Expenditure" 
-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk5_OgxouUFaFk3bUnHuT4or6FYbqMmHYMIxM4cqmuZHDI7gy-nERqkqY4fPxEfd9o6AQ&usqp=CAU" width="86" height="133.3">
-</a>
-  
+</a> 
+
 <a href="https://www.goodreads.com/book/show/32567426-the-theory-of-externalities-and-public-goods?ac=1&from_search=true&qid=Y3QAiwJMBA&rank=1">
 <img border="0" title="The Theory of Externalities and Public Goods" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490833589l/32567426.jpg" width="86" height="133.3">
 </a>
-  
-<a href="https://www.goodreads.com/book/show/17286670-scarcity?ac=1&from_search=true&qid=ZNPdwqdVLi&rank=1">
-<img border="0" title="Scarcity: Why Having Too Little Means So Much" 
-src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392470177l/17286670.jpg" width="86" height="133.3">
-</a>  
-  
+    
 <a href="https://www.goodreads.com/book/show/29983049-la-riqueza-de-las-naciones">
 <img border="0" title="La Riqueza De Las Naciones" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461421285l/29983049._SY475_.jpg" width="86" height="133.3">
@@ -175,16 +194,6 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/14614
 <a href="https://www.goodreads.com/book/show/16078656-la-mano-invisible">
 <img border="0" title="La mano invisible" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349876444l/16078656.jpg" width="86" height="133.3">
-</a>  
-
-<a href="https://www.goodreads.com/book/show/6442389-well-being-for-public-policy">
-<img border="0" title="Well-Being for Public Policy" 
-src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348106134l/6442389.jpg" width="86" height="133.3">
-</a>  
-  
-<a href="https://www.goodreads.com/book/show/31014464-the-handbook-of-experimental-economics-volume-2">
-<img border="0" title="The Handbook of Experimental Economics, Volume 2" 
-src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471282315l/31014464.jpg" width="86" height="133.3">
 </a>   
 
 <a href="https://www.goodreads.com/book/show/1048424.Governing_the_Commons">
