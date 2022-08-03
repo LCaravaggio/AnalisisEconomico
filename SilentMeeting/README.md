@@ -16,3 +16,7 @@
 ["¿Educación pública o privada?"](https://docs.google.com/document/d/1bSro-3tXSDmkNetHgMQQvSousLxl3CMYxI8F_5kkGWg/edit?usp=sharing), Alejandro Morduchowicz  <br />
 ["Por una ética del consumo"](https://docs.google.com/document/d/1I8jideP-lST8pIUJDP8lxStwP7EngOXv91QLOuNNB-Q/edit?usp=sharing), Adela Cortina <br />
 ["La economía microondas"](https://docs.google.com/document/d/1coWcmFd88hOKNFMfQPWUKKjRbsPeQ6ksa5jH9-j7Wu0/edit?usp=sharing), David Perell  <br />
+
+# Comisión Agosto-Septiembre 2022
+
+[Encuentro 2-8](https://docs.google.com/document/d/1ftcOErtqZ5bXn3gOBzEURvN-LFei2aj2UA8EJyXql0Q/edit)
