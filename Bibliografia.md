@@ -153,6 +153,11 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/13924
 src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1377628291i/7474474.jpg" width="86" height="133.3">
 </a>    
   
+<a href="https://www.goodreads.com/book/show/10639.The_Paradox_of_Choice">
+<img border="0" title="The Paradox of Choice: Why More Is Less" 
+src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1410138134i/10639.jpg" width="86" height="133.3">
+</a> 
+  
 Bienestar
 
 <a href="https://www.goodreads.com/book/show/7425861-mismeasuring-our-lives">
