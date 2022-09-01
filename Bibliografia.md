@@ -103,7 +103,7 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/13485
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534281478l/39644138.jpg" width="86" height="133.3">
 </a>    
 
-Moral / Filosofía
+Moral / Filosofía / Ética
   
 <a href="https://www.goodreads.com/book/show/31911.Contemporary_Political_Philosophy">
 <img border="0" title="Contemporary Political Philosophy" 
@@ -120,6 +120,11 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/14360
 <img border="0" title="El analisis economico y la Filosofia Moral" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355146650l/4168029.jpg" width="86" height="133.3">
 </a>  
+  
+<a href="https://www.goodreads.com/book/show/13202715-ethics-and-public-policy">
+<img border="0" title="Ethics and Public Policy: A Philosophical Inquiry" 
+src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348879288i/13202715.jpg" width="86" height="133.3">
+</a>    
 
 Elección / Comportamiento
 
@@ -168,14 +173,29 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/13287
 <a href="https://www.goodreads.com/book/show/6442389-well-being-for-public-policy">
 <img border="0" title="Well-Being for Public Policy" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348106134l/6442389.jpg" width="86" height="133.3">
-</a> 
+</a>
+  
+<a href="https://www.goodreads.com/book/show/29008932-the-oxford-handbook-of-well-being-and-public-policy">
+<img border="0" title="The Oxford Handbook of Well-Being and Public Policy" 
+src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1635857780i/29008932.jpg" width="86" height="133.3">
+</a>  
+  
+<a href="https://www.goodreads.com/book/show/28409418-the-philosophy-of-well-being">
+<img border="0" title="The Philosophy of Well-Being: An Introduction" 
+src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1662044351i/28409418.jpg" width="86" height="133.3">
+</a>    
   
 Felicidad
   
 <a href="https://www.goodreads.com/book/show/58409210-an-economist-s-lessons-on-happiness">
 <img border="0" title="An Economist’s Lessons on Happiness: Farewell Dismal Science!" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624466926l/58409210._SY475_.jpg" width="86" height="133.3">
-</a>  
+</a>
+  
+<a href="https://www.goodreads.com/book/show/16182381-oxford-handbook-of-happiness">
+<img border="0" title="Oxford Handbook of Happiness" 
+src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1355869781i/16182381.jpg" width="86" height="133.3">
+</a> 
   
 Teoría de Juegos
   
