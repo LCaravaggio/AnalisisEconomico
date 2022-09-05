@@ -184,6 +184,11 @@ src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads
 <img border="0" title="The Philosophy of Well-Being: An Introduction" 
 src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1662044351i/28409418.jpg" width="86" height="133.3">
 </a>    
+
+<a href="https://www.goodreads.com/book/show/29508468-well-being">
+<img border="0" title="Well-Being" 
+src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1457995962i/29508468.jpg" width="86" height="133.3">
+</a>     
   
 Felicidad
   
