@@ -65,7 +65,7 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/13895
  
 <a href="https://www.ophi.org.uk/wp-content/uploads/Sen-1979_Equality-of-What.pdf">
 <img border="0" title="Equality of What?" 
-src="https://oxford.universitypressscholarship.com/skin/25ddf951243030916c494aafc0af0a8099d92bfc/images/default.gif" width="86" height="133.3">
+src="https://d20ohkaloyme4g.cloudfront.net/img/document_thumbnails/9c045a456b99dc3074aa69b7b2f96f21/thumb_1200_1818.png" width="86" height="133.3">
 </a>      
 
 <a href="https://www.aeaweb.org/articles?id=10.1257/jep.12.4.133">
@@ -201,6 +201,11 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/16244
 <img border="0" title="Oxford Handbook of Happiness" 
 src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1355869781i/16182381.jpg" width="86" height="133.3">
 </a> 
+
+<a href="https://www.goodreads.com/book/show/26891078-policies-for-happiness">
+<img border="0" title="Policies for Happiness" 
+src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1453682086i/26891078.jpg" width="86" height="133.3">
+</a>  
   
 Teoría de Juegos
   
