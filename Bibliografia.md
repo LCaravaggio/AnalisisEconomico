@@ -213,6 +213,11 @@ Teoría de Juegos
 <img border="0" title="Theory of Games and Economic Behavior" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347376573l/483055.jpg" width="86" height="133.3">
 </a>  
+
+<a href="https://www.goodreads.com/book/show/9179736-game-theory-and-public-policy">
+<img border="0" title="Game Theory And Public Policy" 
+src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356492429i/9179736.jpg" width="86" height="133.3">
+</a>   
   
 Cooperación / Instituciones / Bienes comunes
   
