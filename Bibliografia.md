@@ -206,6 +206,17 @@ src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads
 <img border="0" title="Policies for Happiness" 
 src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1453682086i/26891078.jpg" width="86" height="133.3">
 </a>  
+
+<a href="https://www.goodreads.com/book/show/48720752-the-economics-of-happiness?ac=1&from_search=true&qid=lInwEjpIXg&rank=2">
+<img border="0" title="The Economics of Happiness" 
+src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1573062404i/48720752.jpg" width="86" height="133.3">
+</a>
+
+<a href="https://www.goodreads.com/book/show/6718087-capabilities-and-happiness?ref=nav_sb_ss_1_26">
+<img border="0" title="Capabilities and Happiness" 
+src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347680639i/6718087.jpg" width="86" height="133.3">
+</a>  
+  
   
 Teoría de Juegos
   
