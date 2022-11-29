@@ -162,6 +162,11 @@ src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads
 <img border="0" title="The Paradox of Choice: Why More Is Less" 
 src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1410138134i/10639.jpg" width="86" height="133.3">
 </a> 
+
+<a href="https://www.goodreads.com/book/show/43497936-comp-rtate">
+<img border="0" title="Compórtate" 
+src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546888562i/43497936.jpg" width="86" height="133.3">
+</a>   
   
 Bienestar
 
