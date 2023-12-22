@@ -126,6 +126,11 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/13551
 src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348879288i/13202715.jpg" width="86" height="133.3">
 </a>    
 
+<a href="https://www.goodreads.com/book/show/55234808-la-tiran-a-del-m-rito">
+<img border="0" title="La tiranía del mérito" 
+src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1599276746i/55234808.jpg" width="86" height="133.3">
+</a>    
+
 Elección / Comportamiento
 
 <a href="https://www.goodreads.com/book/show/13831540-preference-value-choice-and-welfare">
