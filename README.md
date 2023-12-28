@@ -29,4 +29,5 @@
 <br>
   
   - [Syllabus](https://github.com/LCaravaggio/AnalisisEconomico/blob/main/Syllabus.pdf)
+  - [Guía de lectura mínima](https://docs.google.com/document/d/1b6VPRMMKnJYqysMOric3f4lU8xRU1mphgUpbJxUPRfM/edit?usp=sharing)
 </details>
