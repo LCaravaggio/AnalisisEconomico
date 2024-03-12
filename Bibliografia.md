@@ -26,6 +26,8 @@ src="https://static.docsity.com/media/avatar/documents/2020/05/01/17133372fd0ae5
 </a>    
 </p>  
 
+Manual de lecturas mínimas: https://docs.google.com/document/d/1b6VPRMMKnJYqysMOric3f4lU8xRU1mphgUpbJxUPRfM/edit?usp=sharing
+
 ## Complementaria
 <p>
 <a href="https://www.law.uchicago.edu/files/file/coase-problem.pdf">
