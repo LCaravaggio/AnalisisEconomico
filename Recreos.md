@@ -1,5 +1,5 @@
 Encuentro 1: [Unequal scenes](https://unequalscenes.com/)</br>
-Encuentro 2: [Money](https://neal.fun/printing-money/)</br>
+Encuentro 2: [Islas de Calor](https://www.lanacion.com.ar/sociedad/islas-de-calor-portenas-tenes-calor-entonces-ni-te-asomes-a-estas-esquinas-portenas-donde-la-nid06022024/#/)</br>
 Encuentro 3: [Fiscal Ship](http://fiscalship.org/)</br>
 Encuentro 4: [Trolley Problems](https://neal.fun/absurd-trolley-problems/)</br>
 Encuentro 5: [Spend](https://neal.fun/spend/)</br>
