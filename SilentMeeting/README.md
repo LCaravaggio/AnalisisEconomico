@@ -19,3 +19,4 @@
 ["La economía microondas"](https://docs.google.com/document/d/1coWcmFd88hOKNFMfQPWUKKjRbsPeQ6ksa5jH9-j7Wu0/edit?usp=sharing), David Perell  <br />
 ["Teoría de juegos y política pública"](https://docs.google.com/document/d/1JoVB72S-bK_WA7NuIGPY2jqJKG4nPwB4ZMXYIrPLrDw/edit?usp=sharing), Roger McCain <br />
 ["Lo que el dinero no puede comprar"](https://docs.google.com/document/d/1ZTlJyhDjjxEeksdaezuqpqaLJPoTMpxIAmb0fPa2cjQ/edit?usp=sharing), Michael Sandel <br />
+["Jugarse la piel"](https://docs.google.com/document/d/1cWVBW-bPXtH_45yzUr0jpmyMQkwqMn-9AY2kS8jJvAM), Nassim Nicholas Taleb <br />
