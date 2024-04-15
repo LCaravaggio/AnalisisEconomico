@@ -25,7 +25,7 @@
 </details>
 
 <details>
-<summary>Syllabus</summary>
+<summary>Syllabus y Guía de lectura</summary>
 <br>
   
   - [Syllabus](https://github.com/LCaravaggio/AnalisisEconomico/blob/main/Syllabus.pdf)
