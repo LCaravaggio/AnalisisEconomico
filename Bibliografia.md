@@ -90,7 +90,7 @@ Estado
   
 <a href="https://www.jstor.org/stable/1925895">
 <img border="0" title="The Pure Theory of Public Expenditure" 
-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk5_OgxouUFaFk3bUnHuT4or6FYbqMmHYMIxM4cqmuZHDI7gy-nERqkqY4fPxEfd9o6AQ&usqp=CAU" width="86" height="133.3">
+src="https://pbs.twimg.com/media/E_59zU7VQAIego5.jpg" width="86" height="133.3">
 </a>  
   
 Costo Beneficio
@@ -201,6 +201,11 @@ src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads
 <img border="0" title="Well-Being" 
 src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1457995962i/29508468.jpg" width="86" height="133.3">
 </a>     
+
+<a href="https://www.goodreads.com/book/show/65649869-wellbeing">
+<img border="0" title="Wellbeing: Science and Policy" 
+src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1675646383i/65649869.jpg" width="86" height="133.3">
+</a> 
   
 Felicidad
   
