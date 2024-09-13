@@ -233,7 +233,11 @@ src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads
 <img border="0" title="Capabilities and Happiness" 
 src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347680639i/6718087.jpg" width="86" height="133.3">
 </a>  
-  
+
+<a href="https://www.goodreads.com/book/show/205359011-encyclopedia-of-happiness-quality-of-life-and-subjective-wellbeing">
+<img border="0" title="Encyclopedia of Happiness, Quality of Life and Subjective Wellbeing" 
+src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1726243659i/205359011.jpg" width="86" height="133.3">
+</a>  
   
 Teoría de Juegos
   
