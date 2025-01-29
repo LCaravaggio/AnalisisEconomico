@@ -21,3 +21,4 @@
 ["Lo que el dinero no puede comprar"](https://docs.google.com/document/d/1ZTlJyhDjjxEeksdaezuqpqaLJPoTMpxIAmb0fPa2cjQ/edit?usp=sharing), Michael Sandel <br />
 ["Jugarse la piel"](https://docs.google.com/document/d/1cWVBW-bPXtH_45yzUr0jpmyMQkwqMn-9AY2kS8jJvAM), Nassim Nicholas Taleb <br />
 ["¿Podemos ser más felices?"](https://docs.google.com/document/d/1FkDTv-r5jaP94JmzTBuHmy6rIjXZB3UlpMYd6D-BBgM/edit), Richard Layard <br />
+["La soledad que no elegimos"](https://docs.google.com/document/d/1wYEb8yurP16fTv3fqu-Gq8KfzDnFTs8F4HGvujZMfQA/edit?usp=sharing), Victoria O´Donnell<br />
