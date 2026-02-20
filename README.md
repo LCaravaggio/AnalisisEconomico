@@ -1,4 +1,4 @@
-<a href="url"><img src="https://www.itba.edu.ar/wp-content/uploads/2020/03/Marca-ITBA-Color-ALTA.png" height="115" width="234" ></a>
+<a href="url"><img src="https://plusitservicios.com/wp-content/uploads/2021/07/Marca-ITBA-Color-ALTA-1600x786.png" height="145" ></a>
 
 # Análisis Económico 
 <details>
