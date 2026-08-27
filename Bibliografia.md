@@ -37,12 +37,12 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/14768
   
 <a href="https://www.jstor.org/stable/3986443">
 <img border="0" title="The Economics of the Government Budget Constraint" 
-src="https://imgv2-1-f.scribdassets.com/img/document/348180337/original/52ff0715ab/1632520030?v=1" width="86" height="133.3">
+src="https://i.ibb.co/MDqBzTYm/images-2.png" width="86" height="133.3">
 </a>  
   
 <a href="http://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/554/texact.htm">
 <img border="0" title="Ley de Administración Financiera del Estado" 
-src="https://d20ohkaloyme4g.cloudfront.net/img/document_thumbnails/55806cdd10ff2a70a23243a037285d28/thumb_1200_1697.png" width="86" height="133.3">
+src="https://i.ibb.co/DftVFVFh/images-1.png" width="86" height="133.3">
 </a>   
   
 <a href="https://capacitacion.mecon.gob.ar/manuales_nuevo/Presupuesto-Clasificador13.pdf">
@@ -67,7 +67,7 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/13895
  
 <a href="https://www.ophi.org.uk/wp-content/uploads/Sen-1979_Equality-of-What.pdf">
 <img border="0" title="Equality of What?" 
-src="https://d20ohkaloyme4g.cloudfront.net/img/document_thumbnails/9c045a456b99dc3074aa69b7b2f96f21/thumb_1200_1818.png" width="86" height="133.3">
+src="https://i.ibb.co/99K8dwX7/images-3.png" width="86" height="133.3">
 </a>      
 
 <a href="https://www.aeaweb.org/articles?id=10.1257/jep.12.4.133">
@@ -249,6 +249,11 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/13473
 <a href="https://www.goodreads.com/book/show/9179736-game-theory-and-public-policy">
 <img border="0" title="Game Theory And Public Policy" 
 src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356492429i/9179736.jpg" width="86" height="133.3">
+</a>   
+
+<a href="https://www.goodreads.com/book/show/29506.Prisoner_s_Dilemma">
+<img border="0" title="Prisoner's Dilemma: John von Neumann, Game Theory, and the Puzzle of the Bomb" 
+src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1386920943i/29506.jpg" width="86" height="133.3">
 </a>   
   
 Cooperación / Instituciones / Bienes comunes
