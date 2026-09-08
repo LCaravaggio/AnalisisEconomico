@@ -86,6 +86,14 @@ src="https://www.elibrary.imf.org/coverimage?doc=%2Fjournals%2F001%2F2000%2F035%
 ## Más bibliografía
 <p>
 
+Principios de Economía
+  
+<a href="https://www.goodreads.com/book/show/1753460.Principles_of_Economics">
+<img border="0" title="Principles of Economics" 
+src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1387708462i/1753460.jpg" width="86" height="133.3">
+</a>  
+
+
 Estado
   
 <a href="https://www.jstor.org/stable/1925895">
