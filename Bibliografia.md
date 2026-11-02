@@ -263,6 +263,11 @@ src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads
 <img border="0" title="Prisoner's Dilemma: John von Neumann, Game Theory, and the Puzzle of the Bomb" 
 src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1386920943i/29506.jpg" width="86" height="133.3">
 </a>   
+
+<a href="https://www.goodreads.com/book/show/469865.Beyond_Individual_Choice">
+<img border="0" title="Beyond Individual Choice: Teams and Frames in Game Theory" 
+src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1347232361i/469865.jpg" width="86" height="133.3">
+</a>  
   
 Cooperación / Instituciones / Bienes comunes
   
