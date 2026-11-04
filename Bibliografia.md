@@ -210,9 +210,14 @@ src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads
 src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1457995962i/29508468.jpg" width="86" height="133.3">
 </a>     
 
-<a href="https://www.goodreads.com/book/show/65649869-wellbeing">
+<a href="https://www.goodreads.com/book/show/57086695-a-handbook-for-wellbeing-policy-making">
 <img border="0" title="Wellbeing: Science and Policy" 
 src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1675646383i/65649869.jpg" width="86" height="133.3">
+</a> 
+
+<a href="https://www.goodreads.com/book/show/65649869-wellbeing">
+<img border="0" title="A Handbook for Wellbeing Policy-Making: History, Theory, Measurement, Implementation, and Examples" 
+src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1613414689i/57086695.jpg" width="86" height="133.3">
 </a> 
   
 Felicidad
