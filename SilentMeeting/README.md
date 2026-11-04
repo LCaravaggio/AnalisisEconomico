@@ -1,3 +1,6 @@
+# Presentación 
+[Dinámica silent meeting en clase](https://www.youtube.com/watch?v=74qy05brCig)<br />
+
 # ¿Por qué reuniones silenciosas? 
 
 [The Silent Meeting Manifesto](https://medium.com/p/189e9e3487eb)<br />
